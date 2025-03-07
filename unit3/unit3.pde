@@ -40,6 +40,15 @@ color white = #FFFFFF;
      fill(green);
      circle(500,100, 100);
      stroke(blue);
+     
+     fill(red);
+     square(50,200,50);
+     
+     fill(purple);
+     square(200,200,50);
+     
+     fill(green);
+     square(400,200,50);
      //indicator
 fill(selectedcolor);
   square(50,300,500);
